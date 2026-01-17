@@ -1,0 +1,80 @@
+site_name: lps-community-guide
+site_description: LPS社区指南文档站点
+site_author: LPS Community
+
+# 文档目录
+docs_dir: docs
+# 站点输出目录
+site_dir: site
+
+# 语言设置
+theme:
+  name: material
+  language: zh
+  palette:
+    # 浅色主题
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    # 深色主题
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+  # logo: assets/logo.png  # TODO: 添加站点logo，建议尺寸：120x120px
+  # favicon: assets/favicon.ico  # TODO: 添加站点favicon，建议尺寸：32x32px
+
+# 导航结构
+nav:
+  - 首页: index.md
+  - 官方资源:
+    - Wiki: official/wiki.md
+    - 线路图与世界地图: official/maps.md
+    - Discord: official/discord.md
+  - 社区资源:
+    - QQ群聊: community/qq.md
+    - 网盘资源与离线线路图: community/downloads.md
+    - 图册: gallery/index.md
+
+# 插件
+plugins:
+  - search:
+      lang: zh
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  # 如需使用 git-revision-date-localized 插件，请先安装：pip install mkdocs-git-revision-date-localized-plugin
+
+# 扩展配置
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# 版权信息（可选）
+copyright: Copyright &copy; 2026 LPSGUIDE
