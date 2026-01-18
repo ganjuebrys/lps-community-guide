@@ -25,6 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
+      - name: Install mkdocs
+        run: pip install mkdocs-material
       - name: Run mkdocs-depoly
         run: mkdocs gh-deploy
