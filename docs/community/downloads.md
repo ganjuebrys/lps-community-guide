@@ -36,19 +36,19 @@
 
 线路图
 
-**线路图官方地址**：`https://example.com/routemap/download` 
+**线路图官方地址**：`https://letsplay.minecrafttransitrailway.com/system-map/` 
 
-**线路图加速地址**：`https://example.com/routemap/download`  
+**线路图加速地址**：`https://lps.lnlfly.com`  
 
 地图
 
-**地图官方地址**：`https://example.com/routemap/download` 
+**地图官方地址**：`https://letsplay.minecrafttransitrailway.com/world-map/` 
 
-**地图加速地址**：`https://example.com/routemap/download`  
+**地图加速地址**：`https://lps.lnlfly.com/world-map/`  
 
 导航
 
-**在线线路导航**：`https://example.com/routemap/download` 
+**在线线路导航**：`暂未上线` 
 
 **qq bot**：`见qq群`  
 
