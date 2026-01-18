@@ -1,5 +1,5 @@
-site_name: MTR齐齐玩服务器社区非官方指南
-site_description: 这里是由MTR齐齐玩服务器玩家社区搭建的非官方指南，希望你能找到你想要的内容！
+site_name: MTR 齐齐玩服务器社区非官方指南
+site_description: 这里是由 MTR 齐齐玩服务器玩家社区搭建的非官方指南，希望你能找到你想要的内容！
 site_author: LPS Community Team
 
 # 文档目录
@@ -43,9 +43,9 @@ nav:
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
     - Discord: official/discord.md
-    - Minecraft 链接 IP: official/acceleration.md
+    - Minecraft 连接 IP: official/acceleration.md
   - 社区资源:
-    - QQ群聊: community/qq.md
+    - QQ 群聊: community/qq.md
     - 网盘资源与线路图: community/downloads.md
     - 图册: gallery/index.md
 

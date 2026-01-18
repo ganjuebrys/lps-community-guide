@@ -12,7 +12,6 @@
 
 ### 访问方式
 
-
 **网盘地址**：`https://download.lnlfly.com/`  
 
 ### 资源分类
@@ -34,23 +33,37 @@
 
 ---
 
-线路图
+## 线路图
 
 **线路图官方地址**：`https://letsplay.minecrafttransitrailway.com/system-map/` 
 
-**线路图加速地址**：`https://map.lpsguide.cn`  
+**线路图加速地址**：`https://map.lpsguide.cn`
 
-地图
+此线路图由
+
+## 地图
 
 **地图官方地址**：`https://letsplay.minecrafttransitrailway.com/world-map/` 
 
-**地图加速地址**：`https://map.lpsguide.cn/world-map/`  
+**地图加速地址**：`https://map.lpsguide.cn/world-map/`
 
-导航
+地图加速地址由 GTEH 加以改进
 
-**在线线路导航**：`https://mtrlpspathfinder.zeabur.app/` 
+## 导航
 
-**qq bot**：`见qq群`  
+#### 实时导航
+
+此方式的优点在于实时，导航结果是根据实时数据计算的，因此准确率较高。
+
+#### Pathfinder
+
+由 NinthBrake 制作的 MTR Pathfinder 支持在导航时设置更多限制（避开车站、路线，仅轻铁，不乘船，不乘高铁，越野），可通过以下方式使用：
+
+**线路图**：在**线路图加速地址**（官方地址不可用）中可以通过在菜单中将导航引擎设置为“pathfinder”使用 Pathfinder 导航（测试中，BUG 较多，不推荐）
+
+**在线导航**：`https://mtrlpspathfinder.zeabur.app/` （由 Tony_V2 制作）
+
+**QQ bot**：加入 [QQ 群](./qq.md) 后使用
 
 ---
 
