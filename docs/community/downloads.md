@@ -1,6 +1,6 @@
-# 网盘资源与离线线路图
+# 网盘资源与线路图
 
-本页面提供 LPS 服务器的网盘资源与离线线路图的下载与使用说明。
+本页面提供 LPS 服务器的网盘资源与线路图的下载与使用说明。
 
 ---
 
@@ -37,8 +37,20 @@
 线路图
 
 **线路图官方地址**：`https://example.com/routemap/download` 
+
 **线路图加速地址**：`https://example.com/routemap/download`  
 
+地图
+
+**地图官方地址**：`https://example.com/routemap/download` 
+
+**地图加速地址**：`https://example.com/routemap/download`  
+
+导航
+
+**在线线路导航**：`https://example.com/routemap/download` 
+
+**qq bot**：`见qq群`  
 
 ---
 

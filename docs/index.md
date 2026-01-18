@@ -1,5 +1,7 @@
 # LPS社区指南
 
+
+
 ## 欢迎
 
 欢迎来到 **LPS 社区指南**！这里是您了解服务器规则、获取官方资源、参与社区交流的重要入口。
@@ -24,71 +26,57 @@
 
 ## 常用链接
 
+### 官方资源
+
 <div class="grid cards" markdown>
 
--   :material-wikipedia:{ .lg .middle } __Wiki__
-
-    ---
+-    __Wiki__
 
     官方知识库，包含服务器详细介绍、游戏规则、FAQ等
 
-    [:octicons-arrow-right-24: 前往Wiki](official/wiki.md)
+    [前往Wiki](official/wiki.md)
 
--   :material-map:{ .lg .middle } __线路图__
+-    __线路图与世界地图__
 
-    ---
+    查看服务器线路规划和世界地图，探索游戏世界
 
-    查看服务器线路规划和实时状态
+    [查看地图](official/maps.md)
 
-    [:octicons-arrow-right-24: 查看线路图](official/maps.md)
+-    __Discord__
 
--   :material-map-marker:{ .lg .middle } __世界地图__
+    加入官方 Discord 服务器，实时交流与获取帮助
 
-    ---
+    [加入Discord](official/discord.md)
 
-    探索服务器世界，查看各地标和重要位置
+-    __Minecraft 加速 IP__
 
-    [:octicons-arrow-right-24: 查看地图](official/maps.md)
+    获取服务器加速 IP，获得更快的连接速度和稳定性
 
--   :material-discord:{ .lg .middle } __Discord__
+    [查看加速 IP](official/acceleration.md)
 
-    ---
+</div>
 
-    加入官方 Discord 服务器，实时交流
+### 社区资源
 
-    [:octicons-arrow-right-24: 加入Discord](official/discord.md)
+<div class="grid cards" markdown>
 
--   :material-speedometer:{ .lg .middle } __Minecraft 加速 IP__
+-    __QQ群__
 
-    ---
+    加入社区QQ群，与其他玩家互动交流
 
-    获取服务器加速 IP，获得更快的连接速度
+    [查看QQ群信息](community/qq.md)
 
-    [:octicons-arrow-right-24: 查看加速 IP](official/acceleration.md)
-
--   :material-qqchat:{ .lg .middle } __QQ群__
-
-    ---
-
-    加入社区QQ群，与其他玩家互动
-
-    [:octicons-arrow-right-24: 查看QQ群信息](community/qq.md)
-
--   :material-cloud-download:{ .lg .middle } __网盘资源__
-
-    ---
+-    __网盘资源__
 
     下载离线地图、存档等社区资源
 
-    [:octicons-arrow-right-24: 访问网盘](community/downloads.md)
+    [访问网盘](community/downloads.md)
 
--   :material-image-multiple:{ .lg .middle } __图册__
+-    __图册__
 
-    ---
+    浏览玩家作品、服务器风景、建筑等精彩图片
 
-    浏览玩家作品、服务器风景、建筑等图片
-
-    [:octicons-arrow-right-24: 查看图册](gallery/index.md)
+    [查看图册](gallery/index.md)
 
 </div>
 
