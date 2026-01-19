@@ -40,6 +40,7 @@ theme:
 # 导航结构
 nav:
   - 首页: index.md
+  - 教程: tutorial/index.md
   - 官方资源:
     - Wiki: official/wiki.md
     - 线路图与世界地图: official/maps.md
