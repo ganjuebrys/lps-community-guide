@@ -16,15 +16,15 @@ hide:
 <center>
 <h2>资源分类</h2>
 <div class="productsTable">
-    <a class="product" href="nmbot-telegram">
+    <a class="product" href="/">
         <img src="/assets/official-icon.png" alt="official info" />
         <h3>进服指南与官方资源</h3>
     </a>
-    <a class="product" href="nmteam-account">
+    <a class="product" href="/">
         <img src="/assets/community-icon.png" alt="community info" />
         <h3>社区资源</h3>
     </a>
-    <a class="product" href="contact-us">
+    <a class="product" href="/">
         <img src="/assets/about-page-icon.png" alt="about us" />
         <h3>关于本站</h3>
     </a>
@@ -38,6 +38,13 @@ hide:
 你可以前往[GitHub](https://github.com/mtrlps-community)了解我们的组织。
 
 <style>
+    :root {
+        text-autospace: normal;
+    }
+    code, pre {
+        text-autospace: no-autospace;
+    }
+
     .headerBackground {
         position: relative;
         width: 120%;
