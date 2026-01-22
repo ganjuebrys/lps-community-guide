@@ -1,0 +1,6 @@
+:root {
+	text-autospace: normal;
+}
+code, pre {
+	text-autospace: no-autospace;
+}
