@@ -47,9 +47,8 @@ theme:
 nav:
   - 首页: index.md
   - 进服教程与官方资源:
-    - 教程: tutorial/index.md
-    - Wiki: official/wiki.md
-    - 线路图与世界地图: official/maps.md
+    - 进服教程: tutorial/index.md
+    - 官方Wiki、线路图与世界地图: official/websites.md
     - Discord: official/discord.md
   - 社区资源:
     - QQ 群聊: community/qq.md
@@ -62,7 +61,6 @@ plugins:
       lang: zh
   - git-revision-date-localized:
       enable_creation_date: true
-  # 如需使用 git-revision-date-localized 插件，请先安装：pip install mkdocs-git-revision-date-localized-plugin
 
 # 扩展配置
 markdown_extensions:
