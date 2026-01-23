@@ -53,7 +53,9 @@ nav:
   - 社区资源:
     - 网盘资源与线路图: community/downloads.md
     - QQ 群聊: community/qq-group.md
-  - 关于网站: about/about.md
+  - 关于网站:
+    - 关于我们: about/index.md
+    - 赞助: about/sponsorship.md
 
 # 插件
 plugins:

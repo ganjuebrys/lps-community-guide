@@ -1,34 +1,12 @@
-# 关于
+---
+title: 关于我们
+description: 在这里了解我们的项目和组织
+---
 
 本网站是由 MTR Let’s Play 齐齐玩服务器玩家社区运营的非官方 Wiki。
 
-**官方 Wiki 链接**：`https://wiki.minecrafttransitrailway.com/zh:mtr_letsplay:start`
+有关官方网站信息请移步至[官方Wiki、线路图与世界地图](/official/websites/)查看
 
-## 赞助
+## 贡献
 
-如果您想要赞助支持我们维护网站以及 lnlfly 加速源的运营：
-
-<div style="display: flex; justify-content: space-between; gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <img src="https://download.lnlfly.com/d/189/mm_reward_qrcode_1768731429481.png" alt="微信赞助" style="max-width: 200px; height: auto;">
-    <br><small>微信赞助</small>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://download.lnlfly.com/d/189/1768731452831.jpg" alt="支付宝" style="max-width: 200px; height: auto;">
-    <br><small>支付宝</small>
-  </div>
-</div>
-
-您的每一分赞助都是对我们最大的支持，所有的赞助都会用于维护本站和加速源。
-
-## 感谢名单
-
-- fenychn0206 & xingteh & mzdyhr：提供代码
-
-- xingteh：提供线路图优化和地图汉化
-
-- fenychn0206：MkDocs 页编写
-
-- TonyV2Intl：在线寻路网站
-
-- mzdyhr：加速 IP 和 CDN
+我们非常欢迎您的贡献，如果您有需要，请参阅[GitHub仓库源码](https://github.com/mtrlps-community/lps-community-guide)。
