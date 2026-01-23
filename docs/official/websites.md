@@ -1,5 +1,5 @@
 ---
-title: 进服指南
+title: 官方Wiki、线路图与世界地图
 description: 官方Wiki、线路图及世界地图
 ---
 
