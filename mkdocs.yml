@@ -9,6 +9,7 @@ docs_dir: docs
 site_dir: site
 
 # GitHub仓库信息
+repo_name: 'mtrlps-community/lps-community-guide'
 repo_url: 'https://github.com/mtrlps-community/lps-community-guide'
 edit_uri: 'https://github.com/mtrlps-community/lps-community-guide/edit/main/docs/'
 
