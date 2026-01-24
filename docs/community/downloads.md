@@ -34,7 +34,7 @@ description: 获取由社区提供的服务器资源与线路图镜像
 - 测试服务器[^2]的线路图。
 
 [^1]: 一个曾经辉煌的MTR服务器，现已关闭。
-[^2]: IP地址：135.148.15.1:26888。
+[^2]: 测试服务器IP地址：135.148.15.1:26888。
 
 - 线路图访问地址：[https://map.lpsguide.cn](https://map.lpsguide.cn)
 - 世界地图访问地址：[https://map.lpsguide.cn/world-map/](https://map.lpsguide.cn/world-map/)
