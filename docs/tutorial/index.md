@@ -10,7 +10,7 @@ description: 本页面提供服务器加入指南及加速IP
 - 一个已经登录好正版账号的PCL2/HMCL启动器（官方启动器由于无法自动安装整合包，无法使用）
 - 一个能够思考问题的大脑
 
-## [详细安装教程](https://tonyv2.infinityfreeapp.com/wp-content/uploads/2026/01/%E8%B5%84%E6%BA%90%E8%AF%B4%E6%98%8E%E4%B8%8E%E8%BF%9B%E6%9C%8D%E6%8C%87%E5%8D%97V2.2%EF%BC%88%E7%82%B9%E5%87%BB%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%9F%A5%E7%9C%8B%EF%BC%89.pdf)
+## [详细安装教程](https://tonyv2.top/wp-content/uploads/2026/01/资源说明与进服指南V2.2（点击可直接查看）.pdf)
 
 <!-- TODO: 使用@TonyV2Intl的整合包 -->
 
