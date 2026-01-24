@@ -61,7 +61,7 @@ hide:
         width: 100%;
         height: 100%;
         background-color: var(--md-default-bg-color);
-        background-image: url(/assets/index-thumbnail.png);
+        background-image: url(/assets/index-thumbnail.webp);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
